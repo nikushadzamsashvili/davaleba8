@@ -116,6 +116,12 @@ h1 {
   color: #4443ff;
   padding: 10px 0 0;
 }
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
 .prompt {
   font-size: 14;
   color: #949494;
