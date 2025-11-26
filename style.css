@@ -116,6 +116,9 @@ h1 {
   color: #4443ff;
   padding: 10px 0 0;
 }
+google_btn:hover {
+  color: red;
+}
 .content {
   display: flex;
   justify-content: center;
